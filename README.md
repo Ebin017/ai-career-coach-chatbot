@@ -37,7 +37,8 @@ An AI-powered career assistant that helps users with career guidance, resume ana
 
 ## 🏗️ Project Structure
 
-ai-career-coach/  
+```
+ai-career-coach 
 │  
 ├── app.py  
 ├── chatbot.py  
@@ -45,7 +46,7 @@ ai-career-coach/
 ├── rag_pipeline.py  
 ├── requirements.txt  
 ├── README.md  
-
+```
 ---
 
 ## ⚙️ How It Works
