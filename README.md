@@ -64,7 +64,7 @@ ai-career-coach/
 ## ▶️ Run Locally
 
 1. Clone repository  
-git clone https://github.com/YOUR_USERNAME/ai-career-coach-chatbot.git  
+git clone https://github.com/Ebin017/ai-career-coach-chatbot.git  
 cd ai-career-coach-chatbot  
 
 2. Install dependencies  
