@@ -38,7 +38,7 @@ An AI-powered career assistant that helps users with career guidance, resume ana
 ## 🏗️ Project Structure
 
 ```
-ai-career-coach 
+ai-career-coach-chatbot
 │  
 ├── app.py  
 ├── chatbot.py  
